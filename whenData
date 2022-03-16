@@ -1,0 +1,21 @@
+[
+
+{
+"name":"overwhelmed",
+"feelingTypes":["mental"],
+"doOptions": [
+    {
+      "name":"Stars",
+      "doInstructions":"Look at the stars and remember God's eternity and power.",
+      "crisis":false
+    },
+    {
+    "name":"Timer",
+      "doInstructions":"Set a timer for 5 or 10 minutes and only work on something until then.",
+      "crisis":true
+    }
+  ]
+}
+
+
+]
